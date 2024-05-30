@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb2c9b41-0753-410a-b7c0-f8d2cb4d54ae": {
+      "ProjectGuid": "cb2c9b41-0753-410a-b7c0-f8d2cb4d54ae",
+      "DisplayName": "Prj_Capa_Datos",
+      "ColorIndex": 0
+    },
+    "0fd336fb-c9ec-4257-9327-b0446d0837a3": {
+      "ProjectGuid": "0fd336fb-c9ec-4257-9327-b0446d0837a3",
+      "DisplayName": "Prj_Capa_Negocio",
+      "ColorIndex": 1
+    },
+    "ecae0916-4997-4a3c-a7e4-7e2241212f75": {
+      "ProjectGuid": "ecae0916-4997-4a3c-a7e4-7e2241212f75",
+      "DisplayName": "Prj_Capa_Entidad",
+      "ColorIndex": 2
+    },
+    "eb14cbef-91a0-40b6-9773-2901cc61606e": {
+      "ProjectGuid": "eb14cbef-91a0-40b6-9773-2901cc61606e",
+      "DisplayName": "MicroSisPlani",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
